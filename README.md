@@ -1,5 +1,5 @@
 # *Pygments* module for Package Control
-[![Build Status](https://travis-ci.org/AndreasBackx/Pygments.png?branch=master)](https://travis-ci.org/AndreasBackx/Pygments)
+[![Build Status](https://travis-ci.org/packagecontrol/Pygments.png?branch=master)](https://travis-ci.org/packagecontrol/Pygments)
 
 
 This is the *[Pygments][]* module bundled for usage with [Package Control][], a package manager for the [Sublime Text][] text editor.
@@ -7,7 +7,7 @@ This is the *[Pygments][]* module bundled for usage with [Package Control][], a 
 
 This repository | Pypi
 ---- | ----
-![Latest tag](https://img.shields.io/github/tag/AndreasBackx/Pygments.svg) | [![pypi](https://img.shields.io/pypi/v/Pygments.svg)][Pypi]
+![Latest tag](https://img.shields.io/github/tag/packagecontrol/Pygments.svg) | [![pypi](https://img.shields.io/pypi/v/Pygments.svg)][Pypi]
 
 
 ## How to use *Pygments* as a dependency
